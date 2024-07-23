@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=800)
+![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=600)
 
 # Hello, I'm Shashwat Mishra 👋
 
